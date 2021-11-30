@@ -11,5 +11,10 @@
 - test
 
 **this is in bold**
-* this is in italics*
+*this is in italics*
 `this highlights stuff`
+
+```
+this highlights
+entire sections
+```
